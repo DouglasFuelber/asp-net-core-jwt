@@ -15,7 +15,7 @@ From a terminal instance, run the following commands.
 $ git clone https://github.com/DouglasFuelber/asp-net-core-jwt.git
 
 # Access the project folder
-$ cd asp-net-core-jwt
+$ cd asp-net-core-jwt/shop
 
 # Restore the packages
 $ dotnet restore
